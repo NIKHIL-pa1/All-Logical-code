@@ -1,0 +1,14 @@
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\RemoveDuplicates\bin\Debug\net8.0\RemoveDuplicates.exe
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\RemoveDuplicates\bin\Debug\net8.0\RemoveDuplicates.deps.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\RemoveDuplicates\bin\Debug\net8.0\RemoveDuplicates.runtimeconfig.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\RemoveDuplicates\bin\Debug\net8.0\RemoveDuplicates.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\RemoveDuplicates\bin\Debug\net8.0\RemoveDuplicates.pdb
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\RemoveDuplicates\obj\Debug\net8.0\RemoveDuplicates.GeneratedMSBuildEditorConfig.editorconfig
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\RemoveDuplicates\obj\Debug\net8.0\RemoveDuplicates.AssemblyInfoInputs.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\RemoveDuplicates\obj\Debug\net8.0\RemoveDuplicates.AssemblyInfo.cs
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\RemoveDuplicates\obj\Debug\net8.0\RemoveDuplicates.csproj.CoreCompileInputs.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\RemoveDuplicates\obj\Debug\net8.0\RemoveDuplicates.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\RemoveDuplicates\obj\Debug\net8.0\refint\RemoveDuplicates.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\RemoveDuplicates\obj\Debug\net8.0\RemoveDuplicates.pdb
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\RemoveDuplicates\obj\Debug\net8.0\RemoveDuplicates.genruntimeconfig.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\RemoveDuplicates\obj\Debug\net8.0\ref\RemoveDuplicates.dll

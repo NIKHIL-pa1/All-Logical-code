@@ -1,0 +1,14 @@
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\KeyExpiryReminder\bin\Debug\net8.0\KeyExpiryReminder.exe
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\KeyExpiryReminder\bin\Debug\net8.0\KeyExpiryReminder.deps.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\KeyExpiryReminder\bin\Debug\net8.0\KeyExpiryReminder.runtimeconfig.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\KeyExpiryReminder\bin\Debug\net8.0\KeyExpiryReminder.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\KeyExpiryReminder\bin\Debug\net8.0\KeyExpiryReminder.pdb
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\KeyExpiryReminder\obj\Debug\net8.0\KeyExpiryReminder.GeneratedMSBuildEditorConfig.editorconfig
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\KeyExpiryReminder\obj\Debug\net8.0\KeyExpiryReminder.AssemblyInfoInputs.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\KeyExpiryReminder\obj\Debug\net8.0\KeyExpiryReminder.AssemblyInfo.cs
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\KeyExpiryReminder\obj\Debug\net8.0\KeyExpiryReminder.csproj.CoreCompileInputs.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\KeyExpiryReminder\obj\Debug\net8.0\KeyExpiryReminder.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\KeyExpiryReminder\obj\Debug\net8.0\refint\KeyExpiryReminder.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\KeyExpiryReminder\obj\Debug\net8.0\KeyExpiryReminder.pdb
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\KeyExpiryReminder\obj\Debug\net8.0\KeyExpiryReminder.genruntimeconfig.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\KeyExpiryReminder\obj\Debug\net8.0\ref\KeyExpiryReminder.dll

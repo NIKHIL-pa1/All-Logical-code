@@ -1,0 +1,14 @@
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Constructors\bin\Debug\net10.0\Constructors.exe
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Constructors\bin\Debug\net10.0\Constructors.deps.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Constructors\bin\Debug\net10.0\Constructors.runtimeconfig.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Constructors\bin\Debug\net10.0\Constructors.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Constructors\bin\Debug\net10.0\Constructors.pdb
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Constructors\obj\Debug\net10.0\Constructors.GeneratedMSBuildEditorConfig.editorconfig
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Constructors\obj\Debug\net10.0\Constructors.AssemblyInfoInputs.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Constructors\obj\Debug\net10.0\Constructors.AssemblyInfo.cs
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Constructors\obj\Debug\net10.0\Constructors.csproj.CoreCompileInputs.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Constructors\obj\Debug\net10.0\Constructors.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Constructors\obj\Debug\net10.0\refint\Constructors.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Constructors\obj\Debug\net10.0\Constructors.pdb
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Constructors\obj\Debug\net10.0\Constructors.genruntimeconfig.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Constructors\obj\Debug\net10.0\ref\Constructors.dll

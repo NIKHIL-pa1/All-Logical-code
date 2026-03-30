@@ -1,0 +1,14 @@
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Params\bin\Debug\net10.0\Params.exe
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Params\bin\Debug\net10.0\Params.deps.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Params\bin\Debug\net10.0\Params.runtimeconfig.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Params\bin\Debug\net10.0\Params.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Params\bin\Debug\net10.0\Params.pdb
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Params\obj\Debug\net10.0\Params.GeneratedMSBuildEditorConfig.editorconfig
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Params\obj\Debug\net10.0\Params.AssemblyInfoInputs.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Params\obj\Debug\net10.0\Params.AssemblyInfo.cs
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Params\obj\Debug\net10.0\Params.csproj.CoreCompileInputs.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Params\obj\Debug\net10.0\Params.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Params\obj\Debug\net10.0\refint\Params.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Params\obj\Debug\net10.0\Params.pdb
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Params\obj\Debug\net10.0\Params.genruntimeconfig.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Params\obj\Debug\net10.0\ref\Params.dll

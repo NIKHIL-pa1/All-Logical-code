@@ -1,0 +1,14 @@
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\EvenOdd\bin\Debug\net8.0\EvenOdd.exe
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\EvenOdd\bin\Debug\net8.0\EvenOdd.deps.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\EvenOdd\bin\Debug\net8.0\EvenOdd.runtimeconfig.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\EvenOdd\bin\Debug\net8.0\EvenOdd.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\EvenOdd\bin\Debug\net8.0\EvenOdd.pdb
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\EvenOdd\obj\Debug\net8.0\EvenOdd.GeneratedMSBuildEditorConfig.editorconfig
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\EvenOdd\obj\Debug\net8.0\EvenOdd.AssemblyInfoInputs.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\EvenOdd\obj\Debug\net8.0\EvenOdd.AssemblyInfo.cs
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\EvenOdd\obj\Debug\net8.0\EvenOdd.csproj.CoreCompileInputs.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\EvenOdd\obj\Debug\net8.0\EvenOdd.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\EvenOdd\obj\Debug\net8.0\refint\EvenOdd.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\EvenOdd\obj\Debug\net8.0\EvenOdd.pdb
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\EvenOdd\obj\Debug\net8.0\EvenOdd.genruntimeconfig.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\EvenOdd\obj\Debug\net8.0\ref\EvenOdd.dll

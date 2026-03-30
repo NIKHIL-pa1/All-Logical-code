@@ -1,0 +1,14 @@
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Dependency Injection\bin\Debug\net10.0\Dependency Injection.exe
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Dependency Injection\bin\Debug\net10.0\Dependency Injection.deps.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Dependency Injection\bin\Debug\net10.0\Dependency Injection.runtimeconfig.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Dependency Injection\bin\Debug\net10.0\Dependency Injection.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Dependency Injection\bin\Debug\net10.0\Dependency Injection.pdb
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Dependency Injection\obj\Debug\net10.0\Dependency Injection.GeneratedMSBuildEditorConfig.editorconfig
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Dependency Injection\obj\Debug\net10.0\Dependency Injection.AssemblyInfoInputs.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Dependency Injection\obj\Debug\net10.0\Dependency Injection.AssemblyInfo.cs
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Dependency Injection\obj\Debug\net10.0\Dependency Injection.csproj.CoreCompileInputs.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Dependency Injection\obj\Debug\net10.0\Dependency Injection.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Dependency Injection\obj\Debug\net10.0\refint\Dependency Injection.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Dependency Injection\obj\Debug\net10.0\Dependency Injection.pdb
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Dependency Injection\obj\Debug\net10.0\Dependency Injection.genruntimeconfig.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Dependency Injection\obj\Debug\net10.0\ref\Dependency Injection.dll

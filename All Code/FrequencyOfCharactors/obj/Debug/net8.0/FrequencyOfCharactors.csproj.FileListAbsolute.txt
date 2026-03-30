@@ -1,0 +1,14 @@
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\FrequencyOfCharactors\bin\Debug\net8.0\FrequencyOfCharactors.exe
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\FrequencyOfCharactors\bin\Debug\net8.0\FrequencyOfCharactors.deps.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\FrequencyOfCharactors\bin\Debug\net8.0\FrequencyOfCharactors.runtimeconfig.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\FrequencyOfCharactors\bin\Debug\net8.0\FrequencyOfCharactors.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\FrequencyOfCharactors\bin\Debug\net8.0\FrequencyOfCharactors.pdb
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\FrequencyOfCharactors\obj\Debug\net8.0\FrequencyOfCharactors.GeneratedMSBuildEditorConfig.editorconfig
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\FrequencyOfCharactors\obj\Debug\net8.0\FrequencyOfCharactors.AssemblyInfoInputs.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\FrequencyOfCharactors\obj\Debug\net8.0\FrequencyOfCharactors.AssemblyInfo.cs
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\FrequencyOfCharactors\obj\Debug\net8.0\FrequencyOfCharactors.csproj.CoreCompileInputs.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\FrequencyOfCharactors\obj\Debug\net8.0\FrequencyOfCharactors.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\FrequencyOfCharactors\obj\Debug\net8.0\refint\FrequencyOfCharactors.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\FrequencyOfCharactors\obj\Debug\net8.0\FrequencyOfCharactors.pdb
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\FrequencyOfCharactors\obj\Debug\net8.0\FrequencyOfCharactors.genruntimeconfig.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\FrequencyOfCharactors\obj\Debug\net8.0\ref\FrequencyOfCharactors.dll

@@ -1,0 +1,14 @@
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\ReverseArray\bin\Debug\net8.0\ReverseArray.exe
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\ReverseArray\bin\Debug\net8.0\ReverseArray.deps.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\ReverseArray\bin\Debug\net8.0\ReverseArray.runtimeconfig.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\ReverseArray\bin\Debug\net8.0\ReverseArray.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\ReverseArray\bin\Debug\net8.0\ReverseArray.pdb
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\ReverseArray\obj\Debug\net8.0\ReverseArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\ReverseArray\obj\Debug\net8.0\ReverseArray.AssemblyInfoInputs.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\ReverseArray\obj\Debug\net8.0\ReverseArray.AssemblyInfo.cs
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\ReverseArray\obj\Debug\net8.0\ReverseArray.csproj.CoreCompileInputs.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\ReverseArray\obj\Debug\net8.0\ReverseArray.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\ReverseArray\obj\Debug\net8.0\refint\ReverseArray.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\ReverseArray\obj\Debug\net8.0\ReverseArray.pdb
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\ReverseArray\obj\Debug\net8.0\ReverseArray.genruntimeconfig.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\ReverseArray\obj\Debug\net8.0\ref\ReverseArray.dll

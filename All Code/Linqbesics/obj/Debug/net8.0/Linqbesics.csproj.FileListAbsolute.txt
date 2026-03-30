@@ -1,0 +1,14 @@
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Linqbesics\bin\Debug\net8.0\Linqbesics.exe
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Linqbesics\bin\Debug\net8.0\Linqbesics.deps.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Linqbesics\bin\Debug\net8.0\Linqbesics.runtimeconfig.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Linqbesics\bin\Debug\net8.0\Linqbesics.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Linqbesics\bin\Debug\net8.0\Linqbesics.pdb
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Linqbesics\obj\Debug\net8.0\Linqbesics.GeneratedMSBuildEditorConfig.editorconfig
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Linqbesics\obj\Debug\net8.0\Linqbesics.AssemblyInfoInputs.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Linqbesics\obj\Debug\net8.0\Linqbesics.AssemblyInfo.cs
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Linqbesics\obj\Debug\net8.0\Linqbesics.csproj.CoreCompileInputs.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Linqbesics\obj\Debug\net8.0\Linqbesics.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Linqbesics\obj\Debug\net8.0\refint\Linqbesics.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Linqbesics\obj\Debug\net8.0\Linqbesics.pdb
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Linqbesics\obj\Debug\net8.0\Linqbesics.genruntimeconfig.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Linqbesics\obj\Debug\net8.0\ref\Linqbesics.dll

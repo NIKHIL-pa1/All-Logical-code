@@ -1,0 +1,15 @@
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\TaskManagement\TaskManagement.Application\bin\Debug\net10.0\TaskManagement.Application.deps.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\TaskManagement\TaskManagement.Application\bin\Debug\net10.0\TaskManagement.Application.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\TaskManagement\TaskManagement.Application\bin\Debug\net10.0\TaskManagement.Application.pdb
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\TaskManagement\TaskManagement.Application\bin\Debug\net10.0\TaskManagement.Domain.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\TaskManagement\TaskManagement.Application\bin\Debug\net10.0\TaskManagement.Domain.pdb
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\TaskManagement\TaskManagement.Application\obj\Debug\net10.0\TaskManagement.Application.csproj.AssemblyReference.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\TaskManagement\TaskManagement.Application\obj\Debug\net10.0\TaskManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\TaskManagement\TaskManagement.Application\obj\Debug\net10.0\TaskManagement.Application.AssemblyInfoInputs.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\TaskManagement\TaskManagement.Application\obj\Debug\net10.0\TaskManagement.Application.AssemblyInfo.cs
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\TaskManagement\TaskManagement.Application\obj\Debug\net10.0\TaskManagement.Application.csproj.CoreCompileInputs.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\TaskManagement\TaskManagement.Application\obj\Debug\net10.0\TaskMana.B5C26166.Up2Date
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\TaskManagement\TaskManagement.Application\obj\Debug\net10.0\TaskManagement.Application.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\TaskManagement\TaskManagement.Application\obj\Debug\net10.0\refint\TaskManagement.Application.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\TaskManagement\TaskManagement.Application\obj\Debug\net10.0\TaskManagement.Application.pdb
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\TaskManagement\TaskManagement.Application\obj\Debug\net10.0\ref\TaskManagement.Application.dll

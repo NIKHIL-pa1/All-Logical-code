@@ -1,0 +1,36 @@
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Service Lifetime\bin\Debug\net10.0\appsettings.Development.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Service Lifetime\bin\Debug\net10.0\appsettings.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Service Lifetime\bin\Debug\net10.0\Service Lifetime.staticwebassets.endpoints.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Service Lifetime\bin\Debug\net10.0\Service Lifetime.exe
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Service Lifetime\bin\Debug\net10.0\Service Lifetime.deps.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Service Lifetime\bin\Debug\net10.0\Service Lifetime.runtimeconfig.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Service Lifetime\bin\Debug\net10.0\Service Lifetime.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Service Lifetime\bin\Debug\net10.0\Service Lifetime.pdb
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Service Lifetime\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Service Lifetime\obj\Debug\net10.0\Service Lifetime.csproj.AssemblyReference.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Service Lifetime\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Service Lifetime\obj\Debug\net10.0\Service Lifetime.GeneratedMSBuildEditorConfig.editorconfig
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Service Lifetime\obj\Debug\net10.0\Service Lifetime.AssemblyInfoInputs.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Service Lifetime\obj\Debug\net10.0\Service Lifetime.AssemblyInfo.cs
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Service Lifetime\obj\Debug\net10.0\Service Lifetime.csproj.CoreCompileInputs.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Service Lifetime\obj\Debug\net10.0\Service Lifetime.MvcApplicationPartsAssemblyInfo.cs
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Service Lifetime\obj\Debug\net10.0\Service Lifetime.MvcApplicationPartsAssemblyInfo.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Service Lifetime\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Service Lifetime\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Service Lifetime\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Service Lifetime\obj\Debug\net10.0\scopedcss\bundle\Service Lifetime.styles.css
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Service Lifetime\obj\Debug\net10.0\staticwebassets.build.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Service Lifetime\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Service Lifetime\obj\Debug\net10.0\staticwebassets.development.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Service Lifetime\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Service Lifetime\obj\Debug\net10.0\swae.build.ex.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Service Lifetime\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Service Lifetime\obj\Debug\net10.0\Service .1B6D08A0.Up2Date
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Service Lifetime\obj\Debug\net10.0\Service Lifetime.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Service Lifetime\obj\Debug\net10.0\refint\Service Lifetime.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Service Lifetime\obj\Debug\net10.0\Service Lifetime.pdb
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Service Lifetime\obj\Debug\net10.0\Service Lifetime.genruntimeconfig.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Service Lifetime\obj\Debug\net10.0\ref\Service Lifetime.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Service Lifetime\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Service Lifetime\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Service Lifetime\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll

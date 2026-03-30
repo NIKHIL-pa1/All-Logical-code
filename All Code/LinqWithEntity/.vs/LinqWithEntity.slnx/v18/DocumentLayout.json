@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\LinqWithEntity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14CFAE00-E657-AA2A-5E09-DD89F8DE20BA}|LinqWithEntity.csproj|d:\\nikhilp_projects\\all_projects_sln_and_dbs\\my_project\\important\\programs\\linqwithentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CFAE00-E657-AA2A-5E09-DD89F8DE20BA}|LinqWithEntity.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CFAE00-E657-AA2A-5E09-DD89F8DE20BA}|LinqWithEntity.csproj|d:\\nikhilp_projects\\all_projects_sln_and_dbs\\my_project\\important\\programs\\linqwithentity\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CFAE00-E657-AA2A-5E09-DD89F8DE20BA}|LinqWithEntity.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CFAE00-E657-AA2A-5E09-DD89F8DE20BA}|LinqWithEntity.csproj|d:\\nikhilp_projects\\all_projects_sln_and_dbs\\my_project\\important\\programs\\linqwithentity\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CFAE00-E657-AA2A-5E09-DD89F8DE20BA}|LinqWithEntity.csproj|solutionrelative:models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\LinqWithEntity\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Models\\Department.cs",
+              "ToolTip": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\LinqWithEntity\\Models\\Department.cs",
+              "RelativeToolTip": "Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T03:35:37.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\LinqWithEntity\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\LinqWithEntity\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T03:34:56.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\LinqWithEntity\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\LinqWithEntity\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAwwIQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T10:38:20.21Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

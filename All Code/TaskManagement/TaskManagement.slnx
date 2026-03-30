@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="Project Flow from scratch.txt" />
+  </Folder>
+  <Project Path="TaskManagement.API/TaskManagement.API.csproj" DisplayName="TaskManagement.Api" Id="59a738cb-1f4c-479c-89b0-c394f7a0a6b5" />
+  <Project Path="TaskManagement.Application/TaskManagement.Application.csproj" />
+  <Project Path="TaskManagement.Domain/TaskManagement.Domain.csproj" />
+  <Project Path="TaskManagement.Infrastructure/TaskManagement.Infrastructure.csproj" />
+  <Project Path="TaskManagement.Persistence/TaskManagement.Persistence.csproj" />
+</Solution>

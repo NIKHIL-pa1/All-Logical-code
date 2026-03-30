@@ -1,0 +1,6 @@
+@Custome_Global_Middlware_and_HostAddress = http://localhost:5241
+
+GET {{Custome_Global_Middlware_and_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

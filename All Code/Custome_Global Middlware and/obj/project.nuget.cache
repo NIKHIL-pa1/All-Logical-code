@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XU4Ji+NtMMs=",
+  "success": true,
+  "projectFilePath": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\Custome_Global Middlware and\\Custome_Global Middlware and.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WEB_744\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.1\\microsoft.aspnetcore.openapi.10.0.1.nupkg.sha512",
+    "C:\\Users\\WEB_744\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

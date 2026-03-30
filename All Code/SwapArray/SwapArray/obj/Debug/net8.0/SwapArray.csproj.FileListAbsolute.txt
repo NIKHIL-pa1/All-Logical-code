@@ -1,0 +1,14 @@
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\SwapArray\SwapArray\bin\Debug\net8.0\SwapArray.exe
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\SwapArray\SwapArray\bin\Debug\net8.0\SwapArray.deps.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\SwapArray\SwapArray\bin\Debug\net8.0\SwapArray.runtimeconfig.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\SwapArray\SwapArray\bin\Debug\net8.0\SwapArray.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\SwapArray\SwapArray\bin\Debug\net8.0\SwapArray.pdb
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\SwapArray\SwapArray\obj\Debug\net8.0\SwapArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\SwapArray\SwapArray\obj\Debug\net8.0\SwapArray.AssemblyInfoInputs.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\SwapArray\SwapArray\obj\Debug\net8.0\SwapArray.AssemblyInfo.cs
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\SwapArray\SwapArray\obj\Debug\net8.0\SwapArray.csproj.CoreCompileInputs.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\SwapArray\SwapArray\obj\Debug\net8.0\SwapArray.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\SwapArray\SwapArray\obj\Debug\net8.0\refint\SwapArray.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\SwapArray\SwapArray\obj\Debug\net8.0\SwapArray.pdb
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\SwapArray\SwapArray\obj\Debug\net8.0\SwapArray.genruntimeconfig.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\SwapArray\SwapArray\obj\Debug\net8.0\ref\SwapArray.dll

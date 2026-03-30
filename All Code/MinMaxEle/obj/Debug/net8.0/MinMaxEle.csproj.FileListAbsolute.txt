@@ -1,0 +1,14 @@
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\MinMaxEle\bin\Debug\net8.0\MinMaxEle.exe
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\MinMaxEle\bin\Debug\net8.0\MinMaxEle.deps.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\MinMaxEle\bin\Debug\net8.0\MinMaxEle.runtimeconfig.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\MinMaxEle\bin\Debug\net8.0\MinMaxEle.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\MinMaxEle\bin\Debug\net8.0\MinMaxEle.pdb
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\MinMaxEle\obj\Debug\net8.0\MinMaxEle.GeneratedMSBuildEditorConfig.editorconfig
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\MinMaxEle\obj\Debug\net8.0\MinMaxEle.AssemblyInfoInputs.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\MinMaxEle\obj\Debug\net8.0\MinMaxEle.AssemblyInfo.cs
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\MinMaxEle\obj\Debug\net8.0\MinMaxEle.csproj.CoreCompileInputs.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\MinMaxEle\obj\Debug\net8.0\MinMaxEle.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\MinMaxEle\obj\Debug\net8.0\refint\MinMaxEle.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\MinMaxEle\obj\Debug\net8.0\MinMaxEle.pdb
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\MinMaxEle\obj\Debug\net8.0\MinMaxEle.genruntimeconfig.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\MinMaxEle\obj\Debug\net8.0\ref\MinMaxEle.dll

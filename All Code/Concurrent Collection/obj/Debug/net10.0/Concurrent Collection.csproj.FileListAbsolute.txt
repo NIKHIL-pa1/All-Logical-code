@@ -1,0 +1,14 @@
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Concurrent Collection\obj\Debug\net10.0\Concurrent Collection.GeneratedMSBuildEditorConfig.editorconfig
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Concurrent Collection\obj\Debug\net10.0\Concurrent Collection.AssemblyInfoInputs.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Concurrent Collection\obj\Debug\net10.0\Concurrent Collection.AssemblyInfo.cs
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Concurrent Collection\obj\Debug\net10.0\Concurrent Collection.csproj.CoreCompileInputs.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Concurrent Collection\bin\Debug\net10.0\Concurrent Collection.exe
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Concurrent Collection\bin\Debug\net10.0\Concurrent Collection.deps.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Concurrent Collection\bin\Debug\net10.0\Concurrent Collection.runtimeconfig.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Concurrent Collection\bin\Debug\net10.0\Concurrent Collection.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Concurrent Collection\bin\Debug\net10.0\Concurrent Collection.pdb
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Concurrent Collection\obj\Debug\net10.0\Concurrent Collection.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Concurrent Collection\obj\Debug\net10.0\refint\Concurrent Collection.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Concurrent Collection\obj\Debug\net10.0\Concurrent Collection.pdb
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Concurrent Collection\obj\Debug\net10.0\Concurrent Collection.genruntimeconfig.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Concurrent Collection\obj\Debug\net10.0\ref\Concurrent Collection.dll

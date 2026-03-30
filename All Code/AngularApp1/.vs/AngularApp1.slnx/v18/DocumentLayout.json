@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\AngularApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD70F4A-7DAB-7A47-7CF8-422486EB3044}|AngularApp1.Server\\AngularApp1.Server.csproj|d:\\nikhilp_projects\\all_projects_sln_and_dbs\\my_project\\important\\programs\\angularapp1\\angularapp1.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CFD70F4A-7DAB-7A47-7CF8-422486EB3044}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\AngularApp1\\AngularApp1.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "AngularApp1.Server\\appsettings.json",
+              "ToolTip": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\AngularApp1\\AngularApp1.Server\\appsettings.json",
+              "RelativeToolTip": "AngularApp1.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-09T10:29:30.827Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

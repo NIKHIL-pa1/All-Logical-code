@@ -1,0 +1,14 @@
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\ParallelForLopp\bin\Debug\net10.0\ParallelForLopp.exe
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\ParallelForLopp\bin\Debug\net10.0\ParallelForLopp.deps.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\ParallelForLopp\bin\Debug\net10.0\ParallelForLopp.runtimeconfig.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\ParallelForLopp\bin\Debug\net10.0\ParallelForLopp.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\ParallelForLopp\bin\Debug\net10.0\ParallelForLopp.pdb
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\ParallelForLopp\obj\Debug\net10.0\ParallelForLopp.GeneratedMSBuildEditorConfig.editorconfig
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\ParallelForLopp\obj\Debug\net10.0\ParallelForLopp.AssemblyInfoInputs.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\ParallelForLopp\obj\Debug\net10.0\ParallelForLopp.AssemblyInfo.cs
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\ParallelForLopp\obj\Debug\net10.0\ParallelForLopp.csproj.CoreCompileInputs.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\ParallelForLopp\obj\Debug\net10.0\ParallelForLopp.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\ParallelForLopp\obj\Debug\net10.0\refint\ParallelForLopp.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\ParallelForLopp\obj\Debug\net10.0\ParallelForLopp.pdb
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\ParallelForLopp\obj\Debug\net10.0\ParallelForLopp.genruntimeconfig.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\ParallelForLopp\obj\Debug\net10.0\ref\ParallelForLopp.dll

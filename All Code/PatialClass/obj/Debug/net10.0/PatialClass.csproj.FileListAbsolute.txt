@@ -1,0 +1,14 @@
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\PatialClass\bin\Debug\net10.0\PatialClass.exe
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\PatialClass\bin\Debug\net10.0\PatialClass.deps.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\PatialClass\bin\Debug\net10.0\PatialClass.runtimeconfig.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\PatialClass\bin\Debug\net10.0\PatialClass.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\PatialClass\bin\Debug\net10.0\PatialClass.pdb
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\PatialClass\obj\Debug\net10.0\PatialClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\PatialClass\obj\Debug\net10.0\PatialClass.AssemblyInfoInputs.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\PatialClass\obj\Debug\net10.0\PatialClass.AssemblyInfo.cs
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\PatialClass\obj\Debug\net10.0\PatialClass.csproj.CoreCompileInputs.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\PatialClass\obj\Debug\net10.0\PatialClass.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\PatialClass\obj\Debug\net10.0\refint\PatialClass.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\PatialClass\obj\Debug\net10.0\PatialClass.pdb
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\PatialClass\obj\Debug\net10.0\PatialClass.genruntimeconfig.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\PatialClass\obj\Debug\net10.0\ref\PatialClass.dll

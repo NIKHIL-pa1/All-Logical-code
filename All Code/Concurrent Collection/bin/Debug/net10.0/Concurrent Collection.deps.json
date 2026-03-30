@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Concurrent Collection/1.0.0": {
+        "runtime": {
+          "Concurrent Collection.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Concurrent Collection/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

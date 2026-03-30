@@ -1,0 +1,14 @@
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\RefAndOut\bin\Debug\net10.0\RefAndOut.exe
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\RefAndOut\bin\Debug\net10.0\RefAndOut.deps.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\RefAndOut\bin\Debug\net10.0\RefAndOut.runtimeconfig.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\RefAndOut\bin\Debug\net10.0\RefAndOut.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\RefAndOut\bin\Debug\net10.0\RefAndOut.pdb
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\RefAndOut\obj\Debug\net10.0\RefAndOut.GeneratedMSBuildEditorConfig.editorconfig
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\RefAndOut\obj\Debug\net10.0\RefAndOut.AssemblyInfoInputs.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\RefAndOut\obj\Debug\net10.0\RefAndOut.AssemblyInfo.cs
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\RefAndOut\obj\Debug\net10.0\RefAndOut.csproj.CoreCompileInputs.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\RefAndOut\obj\Debug\net10.0\RefAndOut.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\RefAndOut\obj\Debug\net10.0\refint\RefAndOut.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\RefAndOut\obj\Debug\net10.0\RefAndOut.pdb
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\RefAndOut\obj\Debug\net10.0\RefAndOut.genruntimeconfig.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\RefAndOut\obj\Debug\net10.0\ref\RefAndOut.dll

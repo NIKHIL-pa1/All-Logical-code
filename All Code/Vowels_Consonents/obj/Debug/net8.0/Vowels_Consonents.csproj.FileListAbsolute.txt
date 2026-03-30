@@ -1,0 +1,14 @@
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Vowels_Consonents\bin\Debug\net8.0\Vowels_Consonents.exe
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Vowels_Consonents\bin\Debug\net8.0\Vowels_Consonents.deps.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Vowels_Consonents\bin\Debug\net8.0\Vowels_Consonents.runtimeconfig.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Vowels_Consonents\bin\Debug\net8.0\Vowels_Consonents.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Vowels_Consonents\bin\Debug\net8.0\Vowels_Consonents.pdb
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Vowels_Consonents\obj\Debug\net8.0\Vowels_Consonents.GeneratedMSBuildEditorConfig.editorconfig
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Vowels_Consonents\obj\Debug\net8.0\Vowels_Consonents.AssemblyInfoInputs.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Vowels_Consonents\obj\Debug\net8.0\Vowels_Consonents.AssemblyInfo.cs
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Vowels_Consonents\obj\Debug\net8.0\Vowels_Consonents.csproj.CoreCompileInputs.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Vowels_Consonents\obj\Debug\net8.0\Vowels_Consonents.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Vowels_Consonents\obj\Debug\net8.0\refint\Vowels_Consonents.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Vowels_Consonents\obj\Debug\net8.0\Vowels_Consonents.pdb
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Vowels_Consonents\obj\Debug\net8.0\Vowels_Consonents.genruntimeconfig.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Vowels_Consonents\obj\Debug\net8.0\ref\Vowels_Consonents.dll

@@ -1,0 +1,27 @@
+﻿🔷 What is Dependency Injection?
+
+Dependency Injection is a design pattern in which an object receives its dependencies from an external source instead of 
+creating them itself.
+
+Dependency Injection is a design pattern that implements the Dependency Inversion Principle where dependencies are injected 
+into a class from outside rather than the class creating them internally.
+
+🎯 Sabse Important Concept
+
+Loose coupling ka matlab:
+
+"Depend on Abstraction, not on Concrete Class"
+
+Isko bolte hain:
+
+🔥 Dependency Inversion Principle (SOLID ka D)
+
+--------------------------------------------------------------------------------------
+
+🎓 Interview Level Definition
+
+Tight coupling means classes are directly dependent on concrete implementations.
+Loose coupling means classes depend on abstraction and external object injection.
+
+--------------------------------------------------------------------------------------
+

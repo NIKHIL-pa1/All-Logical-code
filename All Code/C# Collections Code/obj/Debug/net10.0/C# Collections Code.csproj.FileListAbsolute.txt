@@ -1,0 +1,14 @@
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\C# Collections Code\bin\Debug\net10.0\C# Collections Code.exe
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\C# Collections Code\bin\Debug\net10.0\C# Collections Code.deps.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\C# Collections Code\bin\Debug\net10.0\C# Collections Code.runtimeconfig.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\C# Collections Code\bin\Debug\net10.0\C# Collections Code.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\C# Collections Code\bin\Debug\net10.0\C# Collections Code.pdb
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\C# Collections Code\obj\Debug\net10.0\C# Collections Code.GeneratedMSBuildEditorConfig.editorconfig
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\C# Collections Code\obj\Debug\net10.0\C# Collections Code.AssemblyInfoInputs.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\C# Collections Code\obj\Debug\net10.0\C# Collections Code.AssemblyInfo.cs
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\C# Collections Code\obj\Debug\net10.0\C# Collections Code.csproj.CoreCompileInputs.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\C# Collections Code\obj\Debug\net10.0\C# Collections Code.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\C# Collections Code\obj\Debug\net10.0\refint\C# Collections Code.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\C# Collections Code\obj\Debug\net10.0\C# Collections Code.pdb
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\C# Collections Code\obj\Debug\net10.0\C# Collections Code.genruntimeconfig.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\C# Collections Code\obj\Debug\net10.0\ref\C# Collections Code.dll

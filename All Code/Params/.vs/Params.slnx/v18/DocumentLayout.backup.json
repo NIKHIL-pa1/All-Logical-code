@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\Params\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{847C5375-1460-FE83-5B89-8DF03AFA06CC}|Params.csproj|d:\\nikhilp_projects\\all_projects_sln_and_dbs\\my_project\\important\\programs\\params\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{847C5375-1460-FE83-5B89-8DF03AFA06CC}|Params.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\Params\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\Params\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T13:01:22.596Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

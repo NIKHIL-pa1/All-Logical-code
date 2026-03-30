@@ -1,0 +1,14 @@
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Generics Covariance\bin\Debug\net10.0\Generics Covariance.exe
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Generics Covariance\bin\Debug\net10.0\Generics Covariance.deps.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Generics Covariance\bin\Debug\net10.0\Generics Covariance.runtimeconfig.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Generics Covariance\bin\Debug\net10.0\Generics Covariance.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Generics Covariance\bin\Debug\net10.0\Generics Covariance.pdb
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Generics Covariance\obj\Debug\net10.0\Generics Covariance.GeneratedMSBuildEditorConfig.editorconfig
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Generics Covariance\obj\Debug\net10.0\Generics Covariance.AssemblyInfoInputs.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Generics Covariance\obj\Debug\net10.0\Generics Covariance.AssemblyInfo.cs
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Generics Covariance\obj\Debug\net10.0\Generics Covariance.csproj.CoreCompileInputs.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Generics Covariance\obj\Debug\net10.0\Generics Covariance.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Generics Covariance\obj\Debug\net10.0\refint\Generics Covariance.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Generics Covariance\obj\Debug\net10.0\Generics Covariance.pdb
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Generics Covariance\obj\Debug\net10.0\Generics Covariance.genruntimeconfig.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Generics Covariance\obj\Debug\net10.0\ref\Generics Covariance.dll

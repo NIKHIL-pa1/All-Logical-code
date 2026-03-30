@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\Service Lifetime\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5E90FF-D877-32A5-70C6-22955DCF3BF4}|Service Lifetime.csproj|d:\\nikhilp_projects\\all_projects_sln_and_dbs\\my_project\\important\\programs\\service lifetime\\sevicelifetime\\scopedservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5E90FF-D877-32A5-70C6-22955DCF3BF4}|Service Lifetime.csproj|solutionrelative:sevicelifetime\\scopedservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5E90FF-D877-32A5-70C6-22955DCF3BF4}|Service Lifetime.csproj|d:\\nikhilp_projects\\all_projects_sln_and_dbs\\my_project\\important\\programs\\service lifetime\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5E90FF-D877-32A5-70C6-22955DCF3BF4}|Service Lifetime.csproj|solutionrelative:controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5E90FF-D877-32A5-70C6-22955DCF3BF4}|Service Lifetime.csproj|d:\\nikhilp_projects\\all_projects_sln_and_dbs\\my_project\\important\\programs\\service lifetime\\sevicelifetime\\transientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5E90FF-D877-32A5-70C6-22955DCF3BF4}|Service Lifetime.csproj|solutionrelative:sevicelifetime\\transientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5E90FF-D877-32A5-70C6-22955DCF3BF4}|Service Lifetime.csproj|d:\\nikhilp_projects\\all_projects_sln_and_dbs\\my_project\\important\\programs\\service lifetime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5E90FF-D877-32A5-70C6-22955DCF3BF4}|Service Lifetime.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5E90FF-D877-32A5-70C6-22955DCF3BF4}|Service Lifetime.csproj|d:\\nikhilp_projects\\all_projects_sln_and_dbs\\my_project\\important\\programs\\service lifetime\\sevicelifetime\\singletonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5E90FF-D877-32A5-70C6-22955DCF3BF4}|Service Lifetime.csproj|solutionrelative:sevicelifetime\\singletonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5E90FF-D877-32A5-70C6-22955DCF3BF4}|Service Lifetime.csproj|d:\\nikhilp_projects\\all_projects_sln_and_dbs\\my_project\\important\\programs\\service lifetime\\imyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5E90FF-D877-32A5-70C6-22955DCF3BF4}|Service Lifetime.csproj|solutionrelative:imyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\Service Lifetime\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TestController.cs",
+              "ToolTip": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\Service Lifetime\\Controllers\\TestController.cs",
+              "RelativeToolTip": "Controllers\\TestController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T09:45:14.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SingletonService.cs",
+              "DocumentMoniker": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\Service Lifetime\\SeviceLifetime\\SingletonService.cs",
+              "RelativeDocumentMoniker": "SeviceLifetime\\SingletonService.cs",
+              "ToolTip": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\Service Lifetime\\SeviceLifetime\\SingletonService.cs",
+              "RelativeToolTip": "SeviceLifetime\\SingletonService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T09:40:53.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScopedService .cs",
+              "DocumentMoniker": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\Service Lifetime\\SeviceLifetime\\ScopedService .cs",
+              "RelativeDocumentMoniker": "SeviceLifetime\\ScopedService .cs",
+              "ToolTip": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\Service Lifetime\\SeviceLifetime\\ScopedService .cs",
+              "RelativeToolTip": "SeviceLifetime\\ScopedService .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T09:33:53.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransientService.cs",
+              "DocumentMoniker": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\Service Lifetime\\SeviceLifetime\\TransientService.cs",
+              "RelativeDocumentMoniker": "SeviceLifetime\\TransientService.cs",
+              "ToolTip": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\Service Lifetime\\SeviceLifetime\\TransientService.cs",
+              "RelativeToolTip": "SeviceLifetime\\TransientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T08:45:38.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMyService.cs",
+              "DocumentMoniker": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\Service Lifetime\\IMyService.cs",
+              "RelativeDocumentMoniker": "IMyService.cs",
+              "ToolTip": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\Service Lifetime\\IMyService.cs",
+              "RelativeToolTip": "IMyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T08:44:40.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\Service Lifetime\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\Service Lifetime\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T12:20:50.783Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

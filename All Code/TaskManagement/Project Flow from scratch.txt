@@ -1,0 +1,61 @@
+﻿🔥 Clean Architecture Project Types (Correct Way)
+TaskManagementSystem
+│
+├── TaskManagement.API            → ASP.NET Core Web API
+│
+├── TaskManagement.Application    → Class Library
+│
+├── TaskManagement.Domain         → Class Library
+│
+├── TaskManagement.Infrastructure → Class Library
+│
+└── TaskManagement.Persistence    → Class Library
+
+
+Step 1️
+Create blank solution 
+then add one by one All layers by Right Clicking on empty Solution and selecting class library
+
+Step 2
+Add all required folders in each layers which maintain clean architechitecture
+ 
+Step 3
+Add project references 
+Right click API Project
+
+Add → Project Reference : Application,Infrastructure,Persistence
+
+🔥 Because API needs:
+
+1.services from Application
+
+2.repository implementation from Infrastructure
+
+3.DbContext from Persistence
+
+and for others
+Application → Domain reference
+Application should only know about Domain entities and interfaces.
+
+Infrastructure → Application + Persistence reference + Domain
+
+Persistence -> Domain
+
+API
+ ├── Application
+ ├── Infrastructure
+ └── Persistence
+
+Application
+ └── Domain
+
+Infrastructure
+ ├── Application
+ ├── Domain
+ └── Persistence
+
+Persistence
+ └── Domain
+
+Domain
+ (No references)

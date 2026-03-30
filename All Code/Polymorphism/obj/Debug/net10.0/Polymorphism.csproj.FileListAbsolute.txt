@@ -1,0 +1,14 @@
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Polymorphism\bin\Debug\net10.0\Polymorphism.exe
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Polymorphism\bin\Debug\net10.0\Polymorphism.deps.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Polymorphism\bin\Debug\net10.0\Polymorphism.runtimeconfig.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Polymorphism\bin\Debug\net10.0\Polymorphism.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Polymorphism\bin\Debug\net10.0\Polymorphism.pdb
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Polymorphism\obj\Debug\net10.0\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Polymorphism\obj\Debug\net10.0\Polymorphism.AssemblyInfoInputs.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Polymorphism\obj\Debug\net10.0\Polymorphism.AssemblyInfo.cs
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Polymorphism\obj\Debug\net10.0\Polymorphism.csproj.CoreCompileInputs.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Polymorphism\obj\Debug\net10.0\Polymorphism.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Polymorphism\obj\Debug\net10.0\refint\Polymorphism.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Polymorphism\obj\Debug\net10.0\Polymorphism.pdb
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Polymorphism\obj\Debug\net10.0\Polymorphism.genruntimeconfig.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Polymorphism\obj\Debug\net10.0\ref\Polymorphism.dll

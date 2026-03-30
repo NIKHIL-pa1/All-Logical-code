@@ -1,0 +1,14 @@
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\iNHERITANCES\bin\Debug\net10.0\iNHERITANCES.exe
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\iNHERITANCES\bin\Debug\net10.0\iNHERITANCES.deps.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\iNHERITANCES\bin\Debug\net10.0\iNHERITANCES.runtimeconfig.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\iNHERITANCES\bin\Debug\net10.0\iNHERITANCES.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\iNHERITANCES\bin\Debug\net10.0\iNHERITANCES.pdb
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\iNHERITANCES\obj\Debug\net10.0\iNHERITANCES.GeneratedMSBuildEditorConfig.editorconfig
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\iNHERITANCES\obj\Debug\net10.0\iNHERITANCES.AssemblyInfoInputs.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\iNHERITANCES\obj\Debug\net10.0\iNHERITANCES.AssemblyInfo.cs
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\iNHERITANCES\obj\Debug\net10.0\iNHERITANCES.csproj.CoreCompileInputs.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\iNHERITANCES\obj\Debug\net10.0\iNHERITANCES.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\iNHERITANCES\obj\Debug\net10.0\refint\iNHERITANCES.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\iNHERITANCES\obj\Debug\net10.0\iNHERITANCES.pdb
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\iNHERITANCES\obj\Debug\net10.0\iNHERITANCES.genruntimeconfig.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\iNHERITANCES\obj\Debug\net10.0\ref\iNHERITANCES.dll

@@ -1,0 +1,14 @@
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\RemoveSpace\bin\Debug\net8.0\RemoveSpace.exe
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\RemoveSpace\bin\Debug\net8.0\RemoveSpace.deps.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\RemoveSpace\bin\Debug\net8.0\RemoveSpace.runtimeconfig.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\RemoveSpace\bin\Debug\net8.0\RemoveSpace.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\RemoveSpace\bin\Debug\net8.0\RemoveSpace.pdb
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\RemoveSpace\obj\Debug\net8.0\RemoveSpace.GeneratedMSBuildEditorConfig.editorconfig
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\RemoveSpace\obj\Debug\net8.0\RemoveSpace.AssemblyInfoInputs.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\RemoveSpace\obj\Debug\net8.0\RemoveSpace.AssemblyInfo.cs
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\RemoveSpace\obj\Debug\net8.0\RemoveSpace.csproj.CoreCompileInputs.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\RemoveSpace\obj\Debug\net8.0\RemoveSpace.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\RemoveSpace\obj\Debug\net8.0\refint\RemoveSpace.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\RemoveSpace\obj\Debug\net8.0\RemoveSpace.pdb
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\RemoveSpace\obj\Debug\net8.0\RemoveSpace.genruntimeconfig.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\RemoveSpace\obj\Debug\net8.0\ref\RemoveSpace.dll

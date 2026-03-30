@@ -1,0 +1,14 @@
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\AsynchronousProg\bin\Debug\net10.0\AsynchronousProg.exe
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\AsynchronousProg\bin\Debug\net10.0\AsynchronousProg.deps.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\AsynchronousProg\bin\Debug\net10.0\AsynchronousProg.runtimeconfig.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\AsynchronousProg\bin\Debug\net10.0\AsynchronousProg.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\AsynchronousProg\bin\Debug\net10.0\AsynchronousProg.pdb
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\AsynchronousProg\obj\Debug\net10.0\AsynchronousProg.GeneratedMSBuildEditorConfig.editorconfig
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\AsynchronousProg\obj\Debug\net10.0\AsynchronousProg.AssemblyInfoInputs.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\AsynchronousProg\obj\Debug\net10.0\AsynchronousProg.AssemblyInfo.cs
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\AsynchronousProg\obj\Debug\net10.0\AsynchronousProg.csproj.CoreCompileInputs.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\AsynchronousProg\obj\Debug\net10.0\AsynchronousProg.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\AsynchronousProg\obj\Debug\net10.0\refint\AsynchronousProg.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\AsynchronousProg\obj\Debug\net10.0\AsynchronousProg.pdb
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\AsynchronousProg\obj\Debug\net10.0\AsynchronousProg.genruntimeconfig.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\AsynchronousProg\obj\Debug\net10.0\ref\AsynchronousProg.dll
