@@ -1,0 +1,15 @@
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\OpenClose\bin\Debug\net10.0\OpenClose.exe
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\OpenClose\bin\Debug\net10.0\OpenClose.deps.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\OpenClose\bin\Debug\net10.0\OpenClose.runtimeconfig.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\OpenClose\bin\Debug\net10.0\OpenClose.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\OpenClose\bin\Debug\net10.0\OpenClose.pdb
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\OpenClose\obj\Debug\net10.0\OpenClose.GeneratedMSBuildEditorConfig.editorconfig
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\OpenClose\obj\Debug\net10.0\OpenClose.AssemblyInfoInputs.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\OpenClose\obj\Debug\net10.0\OpenClose.AssemblyInfo.cs
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\OpenClose\obj\Debug\net10.0\OpenClose.csproj.CoreCompileInputs.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\OpenClose\obj\Debug\net10.0\OpenClose.sourcelink.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\OpenClose\obj\Debug\net10.0\OpenClose.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\OpenClose\obj\Debug\net10.0\refint\OpenClose.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\OpenClose\obj\Debug\net10.0\OpenClose.pdb
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\OpenClose\obj\Debug\net10.0\OpenClose.genruntimeconfig.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\OpenClose\obj\Debug\net10.0\ref\OpenClose.dll

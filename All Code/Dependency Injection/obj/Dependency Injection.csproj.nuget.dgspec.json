@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\Dependency Injection\\Dependency Injection.csproj": {}
+    "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\All Code\\Dependency Injection\\Dependency Injection.csproj": {}
   },
   "projects": {
-    "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\Dependency Injection\\Dependency Injection.csproj": {
+    "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\All Code\\Dependency Injection\\Dependency Injection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\Dependency Injection\\Dependency Injection.csproj",
+        "projectUniqueName": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\All Code\\Dependency Injection\\Dependency Injection.csproj",
         "projectName": "Dependency Injection",
-        "projectPath": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\Dependency Injection\\Dependency Injection.csproj",
+        "projectPath": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\All Code\\Dependency Injection\\Dependency Injection.csproj",
         "packagesPath": "C:\\Users\\WEB_744\\.nuget\\packages\\",
-        "outputPath": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\Dependency Injection\\obj\\",
+        "outputPath": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\All Code\\Dependency Injection\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

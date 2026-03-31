@@ -1,0 +1,15 @@
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Liskov Substitution Principle\bin\Debug\net10.0\Liskov Substitution Principle.exe
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Liskov Substitution Principle\bin\Debug\net10.0\Liskov Substitution Principle.deps.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Liskov Substitution Principle\bin\Debug\net10.0\Liskov Substitution Principle.runtimeconfig.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Liskov Substitution Principle\bin\Debug\net10.0\Liskov Substitution Principle.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Liskov Substitution Principle\bin\Debug\net10.0\Liskov Substitution Principle.pdb
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Liskov Substitution Principle\obj\Debug\net10.0\Liskov Substitution Principle.GeneratedMSBuildEditorConfig.editorconfig
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Liskov Substitution Principle\obj\Debug\net10.0\Liskov Substitution Principle.AssemblyInfoInputs.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Liskov Substitution Principle\obj\Debug\net10.0\Liskov Substitution Principle.AssemblyInfo.cs
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Liskov Substitution Principle\obj\Debug\net10.0\Liskov Substitution Principle.csproj.CoreCompileInputs.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Liskov Substitution Principle\obj\Debug\net10.0\Liskov Substitution Principle.sourcelink.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Liskov Substitution Principle\obj\Debug\net10.0\Liskov Substitution Principle.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Liskov Substitution Principle\obj\Debug\net10.0\refint\Liskov Substitution Principle.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Liskov Substitution Principle\obj\Debug\net10.0\Liskov Substitution Principle.pdb
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Liskov Substitution Principle\obj\Debug\net10.0\Liskov Substitution Principle.genruntimeconfig.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Liskov Substitution Principle\obj\Debug\net10.0\ref\Liskov Substitution Principle.dll
