@@ -12,3 +12,18 @@ D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\Deleg
 D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\DelegateMethodAsPara\obj\Debug\net8.0\DelegateMethodAsPara.pdb
 D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\DelegateMethodAsPara\obj\Debug\net8.0\DelegateMethodAsPara.genruntimeconfig.cache
 D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\DelegateMethodAsPara\obj\Debug\net8.0\ref\DelegateMethodAsPara.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\All Code\DelegateMethodAsPara\bin\Debug\net8.0\DelegateMethodAsPara.exe
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\All Code\DelegateMethodAsPara\bin\Debug\net8.0\DelegateMethodAsPara.deps.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\All Code\DelegateMethodAsPara\bin\Debug\net8.0\DelegateMethodAsPara.runtimeconfig.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\All Code\DelegateMethodAsPara\bin\Debug\net8.0\DelegateMethodAsPara.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\All Code\DelegateMethodAsPara\bin\Debug\net8.0\DelegateMethodAsPara.pdb
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\All Code\DelegateMethodAsPara\obj\Debug\net8.0\DelegateMethodAsPara.GeneratedMSBuildEditorConfig.editorconfig
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\All Code\DelegateMethodAsPara\obj\Debug\net8.0\DelegateMethodAsPara.AssemblyInfoInputs.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\All Code\DelegateMethodAsPara\obj\Debug\net8.0\DelegateMethodAsPara.AssemblyInfo.cs
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\All Code\DelegateMethodAsPara\obj\Debug\net8.0\DelegateMethodAsPara.csproj.CoreCompileInputs.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\All Code\DelegateMethodAsPara\obj\Debug\net8.0\DelegateMethodAsPara.sourcelink.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\All Code\DelegateMethodAsPara\obj\Debug\net8.0\DelegateMethodAsPara.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\All Code\DelegateMethodAsPara\obj\Debug\net8.0\refint\DelegateMethodAsPara.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\All Code\DelegateMethodAsPara\obj\Debug\net8.0\DelegateMethodAsPara.pdb
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\All Code\DelegateMethodAsPara\obj\Debug\net8.0\DelegateMethodAsPara.genruntimeconfig.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\All Code\DelegateMethodAsPara\obj\Debug\net8.0\ref\DelegateMethodAsPara.dll

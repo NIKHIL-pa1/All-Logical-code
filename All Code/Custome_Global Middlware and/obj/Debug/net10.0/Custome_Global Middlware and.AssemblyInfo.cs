@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Custome_Global Middlware and")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72f91d18659beb680ffb6a26892b5dd61782ae1c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Custome_Global Middlware and")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Custome_Global Middlware and")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
