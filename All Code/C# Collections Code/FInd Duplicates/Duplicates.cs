@@ -9,8 +9,9 @@ namespace C__Collections_Code.Find_Duplicates
     {
         static void Main(string[] args)
         {
-            RemoveDuplicatesWithLinQ();
-            DuplicatesEle();
+            //RemoveDuplicatesWithLinQ();
+            //DuplicatesEle();
+            RemoveDuplicates();
         }
 
         static public void DuplicatesEle()

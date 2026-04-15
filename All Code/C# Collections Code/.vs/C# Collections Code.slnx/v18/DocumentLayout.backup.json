@@ -1,65 +1,89 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\C# Collections Code\\",
+  "WorkspaceRootPath": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\All Code\\C# Collections Code\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D23D4B45-8AF5-CA43-536F-792AF1340590}|C# Collections Code.csproj|d:\\nikhilp_projects\\all_projects_sln_and_dbs\\my_project\\important\\programs\\c# collections code\\testfind\\findduplicates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D23D4B45-8AF5-CA43-536F-792AF1340590}|C# Collections Code.csproj|solutionrelative:testfind\\findduplicates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D23D4B45-8AF5-CA43-536F-792AF1340590}|C# Collections Code.csproj|d:\\nikhilp_projects\\all_projects_sln_and_dbs\\my_project\\important\\programs\\all code\\c# collections code\\move zero at last\\movezero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D23D4B45-8AF5-CA43-536F-792AF1340590}|C# Collections Code.csproj|solutionrelative:move zero at last\\movezero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D23D4B45-8AF5-CA43-536F-792AF1340590}|C# Collections Code.csproj|d:\\nikhilp_projects\\all_projects_sln_and_dbs\\my_project\\important\\programs\\c# collections code\\find duplicates\\duplicates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D23D4B45-8AF5-CA43-536F-792AF1340590}|C# Collections Code.csproj|d:\\nikhilp_projects\\all_projects_sln_and_dbs\\my_project\\important\\programs\\all code\\c# collections code\\missing num list\\missingnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D23D4B45-8AF5-CA43-536F-792AF1340590}|C# Collections Code.csproj|solutionrelative:missing num list\\missingnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D23D4B45-8AF5-CA43-536F-792AF1340590}|C# Collections Code.csproj|d:\\nikhilp_projects\\all_projects_sln_and_dbs\\my_project\\important\\programs\\all code\\c# collections code\\leetcodearrays\\removeelements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D23D4B45-8AF5-CA43-536F-792AF1340590}|C# Collections Code.csproj|solutionrelative:leetcodearrays\\removeelements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D23D4B45-8AF5-CA43-536F-792AF1340590}|C# Collections Code.csproj|d:\\nikhilp_projects\\all_projects_sln_and_dbs\\my_project\\important\\programs\\all code\\c# collections code\\frequency of charecter\\freqofchar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D23D4B45-8AF5-CA43-536F-792AF1340590}|C# Collections Code.csproj|solutionrelative:frequency of charecter\\freqofchar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D23D4B45-8AF5-CA43-536F-792AF1340590}|C# Collections Code.csproj|d:\\nikhilp_projects\\all_projects_sln_and_dbs\\my_project\\important\\programs\\all code\\c# collections code\\test\\findduplicates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D23D4B45-8AF5-CA43-536F-792AF1340590}|C# Collections Code.csproj|solutionrelative:test\\findduplicates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D23D4B45-8AF5-CA43-536F-792AF1340590}|C# Collections Code.csproj|d:\\nikhilp_projects\\all_projects_sln_and_dbs\\my_project\\important\\programs\\all code\\c# collections code\\c# collections code.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D23D4B45-8AF5-CA43-536F-792AF1340590}|C# Collections Code.csproj|solutionrelative:c# collections code.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D23D4B45-8AF5-CA43-536F-792AF1340590}|C# Collections Code.csproj|d:\\nikhilp_projects\\all_projects_sln_and_dbs\\my_project\\important\\programs\\all code\\c# collections code\\find duplicates\\duplicates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D23D4B45-8AF5-CA43-536F-792AF1340590}|C# Collections Code.csproj|solutionrelative:find duplicates\\duplicates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D23D4B45-8AF5-CA43-536F-792AF1340590}|C# Collections Code.csproj|d:\\nikhilp_projects\\all_projects_sln_and_dbs\\my_project\\important\\programs\\c# collections code\\fibonacci series\\fibonacciseries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D23D4B45-8AF5-CA43-536F-792AF1340590}|C# Collections Code.csproj|solutionrelative:fibonacci series\\fibonacciseries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D23D4B45-8AF5-CA43-536F-792AF1340590}|C# Collections Code.csproj|d:\\nikhilp_projects\\all_projects_sln_and_dbs\\my_project\\important\\programs\\all code\\c# collections code\\frequencyofele\\countfreqofele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D23D4B45-8AF5-CA43-536F-792AF1340590}|C# Collections Code.csproj|solutionrelative:frequencyofele\\countfreqofele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D23D4B45-8AF5-CA43-536F-792AF1340590}|C# Collections Code.csproj|d:\\nikhilp_projects\\all_projects_sln_and_dbs\\my_project\\important\\programs\\c# collections code\\stack code\\remove_adjacent_duplicates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D23D4B45-8AF5-CA43-536F-792AF1340590}|C# Collections Code.csproj|solutionrelative:stack code\\remove_adjacent_duplicates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D23D4B45-8AF5-CA43-536F-792AF1340590}|C# Collections Code.csproj|d:\\nikhilp_projects\\all_projects_sln_and_dbs\\my_project\\important\\programs\\all code\\c# collections code\\islistsorted\\chklistsorted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D23D4B45-8AF5-CA43-536F-792AF1340590}|C# Collections Code.csproj|solutionrelative:islistsorted\\chklistsorted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D23D4B45-8AF5-CA43-536F-792AF1340590}|C# Collections Code.csproj|d:\\nikhilp_projects\\all_projects_sln_and_dbs\\my_project\\important\\programs\\c# collections code\\countvowels\\countvowel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D23D4B45-8AF5-CA43-536F-792AF1340590}|C# Collections Code.csproj|d:\\nikhilp_projects\\all_projects_sln_and_dbs\\my_project\\important\\programs\\all code\\c# collections code\\countvowels\\countvowel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D23D4B45-8AF5-CA43-536F-792AF1340590}|C# Collections Code.csproj|solutionrelative:countvowels\\countvowel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D23D4B45-8AF5-CA43-536F-792AF1340590}|C# Collections Code.csproj|d:\\nikhilp_projects\\all_projects_sln_and_dbs\\my_project\\important\\programs\\c# collections code\\leetcodearrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D23D4B45-8AF5-CA43-536F-792AF1340590}|C# Collections Code.csproj|d:\\nikhilp_projects\\all_projects_sln_and_dbs\\my_project\\important\\programs\\all code\\c# collections code\\palindrome\\palindromenumandname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D23D4B45-8AF5-CA43-536F-792AF1340590}|C# Collections Code.csproj|solutionrelative:palindrome\\palindromenumandname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D23D4B45-8AF5-CA43-536F-792AF1340590}|C# Collections Code.csproj|d:\\nikhilp_projects\\all_projects_sln_and_dbs\\my_project\\important\\programs\\all code\\c# collections code\\fibonacci series\\fibonacciseries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D23D4B45-8AF5-CA43-536F-792AF1340590}|C# Collections Code.csproj|solutionrelative:fibonacci series\\fibonacciseries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D23D4B45-8AF5-CA43-536F-792AF1340590}|C# Collections Code.csproj|d:\\nikhilp_projects\\all_projects_sln_and_dbs\\my_project\\important\\programs\\all code\\c# collections code\\stack code\\remove_adjacent_duplicates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D23D4B45-8AF5-CA43-536F-792AF1340590}|C# Collections Code.csproj|solutionrelative:stack code\\remove_adjacent_duplicates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D23D4B45-8AF5-CA43-536F-792AF1340590}|C# Collections Code.csproj|d:\\nikhilp_projects\\all_projects_sln_and_dbs\\my_project\\important\\programs\\all code\\c# collections code\\leetcodearrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D23D4B45-8AF5-CA43-536F-792AF1340590}|C# Collections Code.csproj|solutionrelative:leetcodearrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D23D4B45-8AF5-CA43-536F-792AF1340590}|C# Collections Code.csproj|d:\\nikhilp_projects\\all_projects_sln_and_dbs\\my_project\\important\\programs\\c# collections code\\leetcodearrays\\searchinsertelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D23D4B45-8AF5-CA43-536F-792AF1340590}|C# Collections Code.csproj|d:\\nikhilp_projects\\all_projects_sln_and_dbs\\my_project\\important\\programs\\all code\\c# collections code\\leetcodearrays\\searchinsertelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D23D4B45-8AF5-CA43-536F-792AF1340590}|C# Collections Code.csproj|solutionrelative:leetcodearrays\\searchinsertelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D23D4B45-8AF5-CA43-536F-792AF1340590}|C# Collections Code.csproj|d:\\nikhilp_projects\\all_projects_sln_and_dbs\\my_project\\important\\programs\\c# collections code\\stack code\\nextgreaterele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D23D4B45-8AF5-CA43-536F-792AF1340590}|C# Collections Code.csproj|d:\\nikhilp_projects\\all_projects_sln_and_dbs\\my_project\\important\\programs\\all code\\c# collections code\\stack code\\nextgreaterele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D23D4B45-8AF5-CA43-536F-792AF1340590}|C# Collections Code.csproj|solutionrelative:stack code\\nextgreaterele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\10.0.101\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.ImportWorkloads.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D23D4B45-8AF5-CA43-536F-792AF1340590}|C# Collections Code.csproj|d:\\nikhilp_projects\\all_projects_sln_and_dbs\\my_project\\important\\programs\\c# collections code\\stack code\\mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D23D4B45-8AF5-CA43-536F-792AF1340590}|C# Collections Code.csproj|d:\\nikhilp_projects\\all_projects_sln_and_dbs\\my_project\\important\\programs\\all code\\c# collections code\\stack code\\mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D23D4B45-8AF5-CA43-536F-792AF1340590}|C# Collections Code.csproj|solutionrelative:stack code\\mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D23D4B45-8AF5-CA43-536F-792AF1340590}|C# Collections Code.csproj|d:\\nikhilp_projects\\all_projects_sln_and_dbs\\my_project\\important\\programs\\c# collections code\\reverse list\\reversetringwithstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D23D4B45-8AF5-CA43-536F-792AF1340590}|C# Collections Code.csproj|d:\\nikhilp_projects\\all_projects_sln_and_dbs\\my_project\\important\\programs\\all code\\c# collections code\\reverse list\\reversetringwithstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D23D4B45-8AF5-CA43-536F-792AF1340590}|C# Collections Code.csproj|solutionrelative:reverse list\\reversetringwithstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D23D4B45-8AF5-CA43-536F-792AF1340590}|C# Collections Code.csproj|d:\\nikhilp_projects\\all_projects_sln_and_dbs\\my_project\\important\\programs\\c# collections code\\reverse list\\reverseelements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D23D4B45-8AF5-CA43-536F-792AF1340590}|C# Collections Code.csproj|d:\\nikhilp_projects\\all_projects_sln_and_dbs\\my_project\\important\\programs\\all code\\c# collections code\\reverse list\\reverseelements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D23D4B45-8AF5-CA43-536F-792AF1340590}|C# Collections Code.csproj|solutionrelative:reverse list\\reverseelements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D23D4B45-8AF5-CA43-536F-792AF1340590}|C# Collections Code.csproj|d:\\nikhilp_projects\\all_projects_sln_and_dbs\\my_project\\important\\programs\\c# collections code\\reverse list\\reversestring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D23D4B45-8AF5-CA43-536F-792AF1340590}|C# Collections Code.csproj|d:\\nikhilp_projects\\all_projects_sln_and_dbs\\my_project\\important\\programs\\all code\\c# collections code\\reverse list\\reversestring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D23D4B45-8AF5-CA43-536F-792AF1340590}|C# Collections Code.csproj|solutionrelative:reverse list\\reversestring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D23D4B45-8AF5-CA43-536F-792AF1340590}|C# Collections Code.csproj|d:\\nikhilp_projects\\all_projects_sln_and_dbs\\my_project\\important\\programs\\c# collections code\\frequency of charecter\\freqofchar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D23D4B45-8AF5-CA43-536F-792AF1340590}|C# Collections Code.csproj|solutionrelative:frequency of charecter\\freqofchar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D23D4B45-8AF5-CA43-536F-792AF1340590}|C# Collections Code.csproj|d:\\nikhilp_projects\\all_projects_sln_and_dbs\\my_project\\important\\programs\\c# collections code\\palindrome\\palindromenumandname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D23D4B45-8AF5-CA43-536F-792AF1340590}|C# Collections Code.csproj|solutionrelative:palindrome\\palindromenumandname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,61 +102,86 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MoveZero.cs",
+              "DocumentMoniker": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\All Code\\C# Collections Code\\Move Zero at Last\\MoveZero.cs",
+              "RelativeDocumentMoniker": "Move Zero at Last\\MoveZero.cs",
+              "ToolTip": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\All Code\\C# Collections Code\\Move Zero at Last\\MoveZero.cs",
+              "RelativeToolTip": "Move Zero at Last\\MoveZero.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T10:41:07.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RemoveElements.cs",
+              "DocumentMoniker": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\All Code\\C# Collections Code\\LeetCodeArrays\\RemoveElements.cs",
+              "RelativeDocumentMoniker": "LeetCodeArrays\\RemoveElements.cs",
+              "ToolTip": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\All Code\\C# Collections Code\\LeetCodeArrays\\RemoveElements.cs",
+              "RelativeToolTip": "LeetCodeArrays\\RemoveElements.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T10:32:18.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MissingNumber.cs",
+              "DocumentMoniker": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\All Code\\C# Collections Code\\Missing Num list\\MissingNumber.cs",
+              "RelativeDocumentMoniker": "Missing Num list\\MissingNumber.cs",
+              "ToolTip": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\All Code\\C# Collections Code\\Missing Num list\\MissingNumber.cs",
+              "RelativeToolTip": "Missing Num list\\MissingNumber.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T05:14:44.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChkListSorted.cs",
+              "DocumentMoniker": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\All Code\\C# Collections Code\\IsListSorted\\ChkListSorted.cs",
+              "RelativeDocumentMoniker": "IsListSorted\\ChkListSorted.cs",
+              "ToolTip": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\All Code\\C# Collections Code\\IsListSorted\\ChkListSorted.cs",
+              "RelativeToolTip": "IsListSorted\\ChkListSorted.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T05:14:06.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CountFreqOfEle.cs",
+              "DocumentMoniker": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\All Code\\C# Collections Code\\FrequencyOfEle\\CountFreqOfEle.cs",
+              "RelativeDocumentMoniker": "FrequencyOfEle\\CountFreqOfEle.cs",
+              "ToolTip": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\All Code\\C# Collections Code\\FrequencyOfEle\\CountFreqOfEle.cs",
+              "RelativeToolTip": "FrequencyOfEle\\CountFreqOfEle.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T10:03:30.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "FindDuplicates.cs",
-              "DocumentMoniker": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\C# Collections Code\\TestFind\\FindDuplicates.cs",
-              "RelativeDocumentMoniker": "TestFind\\FindDuplicates.cs",
-              "ToolTip": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\C# Collections Code\\TestFind\\FindDuplicates.cs",
-              "RelativeToolTip": "TestFind\\FindDuplicates.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAUwDoAAAAwAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\All Code\\C# Collections Code\\Test\\FindDuplicates.cs",
+              "RelativeDocumentMoniker": "Test\\FindDuplicates.cs",
+              "ToolTip": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\All Code\\C# Collections Code\\Test\\FindDuplicates.cs",
+              "RelativeToolTip": "Test\\FindDuplicates.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAswDkAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-24T04:58:42.039Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FibonacciSeries.cs",
-              "DocumentMoniker": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\C# Collections Code\\Fibonacci series\\FibonacciSeries.cs",
-              "RelativeDocumentMoniker": "Fibonacci series\\FibonacciSeries.cs",
-              "ToolTip": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\C# Collections Code\\Fibonacci series\\FibonacciSeries.cs",
-              "RelativeToolTip": "Fibonacci series\\FibonacciSeries.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T04:57:47.451Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Duplicates.cs",
-              "DocumentMoniker": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\C# Collections Code\\FInd Duplicates\\Duplicates.cs",
-              "RelativeDocumentMoniker": "FInd Duplicates\\Duplicates.cs",
-              "ToolTip": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\C# Collections Code\\FInd Duplicates\\Duplicates.cs",
-              "RelativeToolTip": "FInd Duplicates\\Duplicates.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T04:31:31.325Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\C# Collections Code\\LeetCodeArrays\\Program.cs",
-              "RelativeDocumentMoniker": "LeetCodeArrays\\Program.cs",
-              "ToolTip": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\C# Collections Code\\LeetCodeArrays\\Program.cs",
-              "RelativeToolTip": "LeetCodeArrays\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAvwAwAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T05:29:39.469Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "NextGreaterEle.cs",
-              "DocumentMoniker": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\C# Collections Code\\Stack Code\\NextGreaterEle.cs",
+              "DocumentMoniker": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\All Code\\C# Collections Code\\Stack Code\\NextGreaterEle.cs",
               "RelativeDocumentMoniker": "Stack Code\\NextGreaterEle.cs",
-              "ToolTip": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\C# Collections Code\\Stack Code\\NextGreaterEle.cs",
+              "ToolTip": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\All Code\\C# Collections Code\\Stack Code\\NextGreaterEle.cs",
               "RelativeToolTip": "Stack Code\\NextGreaterEle.cs",
               "ViewState": "AgIAADUAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -140,11 +189,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "Remove_Adjacent_Duplicates.cs",
-              "DocumentMoniker": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\C# Collections Code\\Stack Code\\Remove_Adjacent_Duplicates.cs",
+              "DocumentMoniker": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\All Code\\C# Collections Code\\Stack Code\\Remove_Adjacent_Duplicates.cs",
               "RelativeDocumentMoniker": "Stack Code\\Remove_Adjacent_Duplicates.cs",
-              "ToolTip": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\C# Collections Code\\Stack Code\\Remove_Adjacent_Duplicates.cs",
+              "ToolTip": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\All Code\\C# Collections Code\\Stack Code\\Remove_Adjacent_Duplicates.cs",
               "RelativeToolTip": "Stack Code\\Remove_Adjacent_Duplicates.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAgwAoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -153,11 +202,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "MainClass.cs",
-              "DocumentMoniker": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\C# Collections Code\\Stack Code\\MainClass.cs",
+              "DocumentMoniker": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\All Code\\C# Collections Code\\Stack Code\\MainClass.cs",
               "RelativeDocumentMoniker": "Stack Code\\MainClass.cs",
-              "ToolTip": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\C# Collections Code\\Stack Code\\MainClass.cs",
+              "ToolTip": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\All Code\\C# Collections Code\\Stack Code\\MainClass.cs",
               "RelativeToolTip": "Stack Code\\MainClass.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -165,31 +214,93 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "FreqOfChar.cs",
-              "DocumentMoniker": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\C# Collections Code\\Frequency of Charecter\\FreqOfChar.cs",
-              "RelativeDocumentMoniker": "Frequency of Charecter\\FreqOfChar.cs",
-              "ToolTip": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\C# Collections Code\\Frequency of Charecter\\FreqOfChar.cs",
-              "RelativeToolTip": "Frequency of Charecter\\FreqOfChar.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "PalindromeNumAndName.cs",
+              "DocumentMoniker": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\All Code\\C# Collections Code\\Palindrome\\PalindromeNumAndName.cs",
+              "RelativeDocumentMoniker": "Palindrome\\PalindromeNumAndName.cs",
+              "ToolTip": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\All Code\\C# Collections Code\\Palindrome\\PalindromeNumAndName.cs",
+              "RelativeToolTip": "Palindrome\\PalindromeNumAndName.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAqwCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T03:39:37.435Z"
+              "WhenOpened": "2026-02-11T04:15:08.41Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "FreqOfChar.cs",
+              "DocumentMoniker": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\All Code\\C# Collections Code\\Frequency of Charecter\\FreqOfChar.cs",
+              "RelativeDocumentMoniker": "Frequency of Charecter\\FreqOfChar.cs",
+              "ToolTip": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\All Code\\C# Collections Code\\Frequency of Charecter\\FreqOfChar.cs",
+              "RelativeToolTip": "Frequency of Charecter\\FreqOfChar.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T03:39:37.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "CountVowel.cs",
-              "DocumentMoniker": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\C# Collections Code\\CountVowels\\CountVowel.cs",
+              "DocumentMoniker": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\All Code\\C# Collections Code\\CountVowels\\CountVowel.cs",
               "RelativeDocumentMoniker": "CountVowels\\CountVowel.cs",
-              "ToolTip": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\C# Collections Code\\CountVowels\\CountVowel.cs",
+              "ToolTip": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\All Code\\C# Collections Code\\CountVowels\\CountVowel.cs",
               "RelativeToolTip": "CountVowels\\CountVowel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-12T03:30:45.049Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\All Code\\C# Collections Code\\LeetCodeArrays\\Program.cs",
+              "RelativeDocumentMoniker": "LeetCodeArrays\\Program.cs",
+              "ToolTip": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\All Code\\C# Collections Code\\LeetCodeArrays\\Program.cs",
+              "RelativeToolTip": "LeetCodeArrays\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAvwAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T05:29:39.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Duplicates.cs",
+              "DocumentMoniker": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\All Code\\C# Collections Code\\FInd Duplicates\\Duplicates.cs",
+              "RelativeDocumentMoniker": "FInd Duplicates\\Duplicates.cs",
+              "ToolTip": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\All Code\\C# Collections Code\\FInd Duplicates\\Duplicates.cs",
+              "RelativeToolTip": "FInd Duplicates\\Duplicates.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T04:31:31.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FibonacciSeries.cs",
+              "DocumentMoniker": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\All Code\\C# Collections Code\\Fibonacci series\\FibonacciSeries.cs",
+              "RelativeDocumentMoniker": "Fibonacci series\\FibonacciSeries.cs",
+              "ToolTip": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\All Code\\C# Collections Code\\Fibonacci series\\FibonacciSeries.cs",
+              "RelativeToolTip": "Fibonacci series\\FibonacciSeries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T04:57:47.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "C# Collections Code",
+              "DocumentMoniker": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\All Code\\C# Collections Code\\C# Collections Code.csproj",
+              "RelativeDocumentMoniker": "C# Collections Code.csproj",
+              "ToolTip": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\All Code\\C# Collections Code\\C# Collections Code.csproj",
+              "RelativeToolTip": "C# Collections Code.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-24T05:06:43.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "Microsoft.NET.Sdk.ImportWorkloads.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\10.0.101\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.ImportWorkloads.targets",
               "ToolTip": "C:\\Program Files\\dotnet\\sdk\\10.0.101\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.ImportWorkloads.targets",
@@ -199,11 +310,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "SearchInsertElement.cs",
-              "DocumentMoniker": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\C# Collections Code\\LeetCodeArrays\\SearchInsertElement.cs",
+              "DocumentMoniker": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\All Code\\C# Collections Code\\LeetCodeArrays\\SearchInsertElement.cs",
               "RelativeDocumentMoniker": "LeetCodeArrays\\SearchInsertElement.cs",
-              "ToolTip": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\C# Collections Code\\LeetCodeArrays\\SearchInsertElement.cs",
+              "ToolTip": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\All Code\\C# Collections Code\\LeetCodeArrays\\SearchInsertElement.cs",
               "RelativeToolTip": "LeetCodeArrays\\SearchInsertElement.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAvwCIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -212,11 +323,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "ReversetringWithStack.cs",
-              "DocumentMoniker": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\C# Collections Code\\Reverse List\\ReversetringWithStack.cs",
+              "DocumentMoniker": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\All Code\\C# Collections Code\\Reverse List\\ReversetringWithStack.cs",
               "RelativeDocumentMoniker": "Reverse List\\ReversetringWithStack.cs",
-              "ToolTip": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\C# Collections Code\\Reverse List\\ReversetringWithStack.cs",
+              "ToolTip": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\All Code\\C# Collections Code\\Reverse List\\ReversetringWithStack.cs",
               "RelativeToolTip": "Reverse List\\ReversetringWithStack.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwBcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -224,23 +335,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "PalindromeNumAndName.cs",
-              "DocumentMoniker": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\C# Collections Code\\Palindrome\\PalindromeNumAndName.cs",
-              "RelativeDocumentMoniker": "Palindrome\\PalindromeNumAndName.cs",
-              "ToolTip": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\C# Collections Code\\Palindrome\\PalindromeNumAndName.cs",
-              "RelativeToolTip": "Palindrome\\PalindromeNumAndName.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowCoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T04:15:08.41Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "ReverseElements.cs",
-              "DocumentMoniker": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\C# Collections Code\\Reverse List\\ReverseElements.cs",
+              "DocumentMoniker": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\All Code\\C# Collections Code\\Reverse List\\ReverseElements.cs",
               "RelativeDocumentMoniker": "Reverse List\\ReverseElements.cs",
-              "ToolTip": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\C# Collections Code\\Reverse List\\ReverseElements.cs",
+              "ToolTip": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\All Code\\C# Collections Code\\Reverse List\\ReverseElements.cs",
               "RelativeToolTip": "Reverse List\\ReverseElements.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -248,11 +347,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "ReverseString.cs",
-              "DocumentMoniker": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\C# Collections Code\\Reverse List\\ReverseString.cs",
+              "DocumentMoniker": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\All Code\\C# Collections Code\\Reverse List\\ReverseString.cs",
               "RelativeDocumentMoniker": "Reverse List\\ReverseString.cs",
-              "ToolTip": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\C# Collections Code\\Reverse List\\ReverseString.cs",
+              "ToolTip": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\All Code\\C# Collections Code\\Reverse List\\ReverseString.cs",
               "RelativeToolTip": "Reverse List\\ReverseString.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

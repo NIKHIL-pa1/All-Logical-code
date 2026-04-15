@@ -12,3 +12,18 @@ D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\PassB
 D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\PassByValuAndRef\obj\Debug\net10.0\PassByValuAndRef.pdb
 D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\PassByValuAndRef\obj\Debug\net10.0\PassByValuAndRef.genruntimeconfig.cache
 D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\PassByValuAndRef\obj\Debug\net10.0\ref\PassByValuAndRef.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\All Code\PassByValuAndRef\bin\Debug\net10.0\PassByValuAndRef.exe
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\All Code\PassByValuAndRef\bin\Debug\net10.0\PassByValuAndRef.deps.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\All Code\PassByValuAndRef\bin\Debug\net10.0\PassByValuAndRef.runtimeconfig.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\All Code\PassByValuAndRef\bin\Debug\net10.0\PassByValuAndRef.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\All Code\PassByValuAndRef\bin\Debug\net10.0\PassByValuAndRef.pdb
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\All Code\PassByValuAndRef\obj\Debug\net10.0\PassByValuAndRef.GeneratedMSBuildEditorConfig.editorconfig
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\All Code\PassByValuAndRef\obj\Debug\net10.0\PassByValuAndRef.AssemblyInfoInputs.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\All Code\PassByValuAndRef\obj\Debug\net10.0\PassByValuAndRef.AssemblyInfo.cs
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\All Code\PassByValuAndRef\obj\Debug\net10.0\PassByValuAndRef.csproj.CoreCompileInputs.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\All Code\PassByValuAndRef\obj\Debug\net10.0\PassByValuAndRef.sourcelink.json
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\All Code\PassByValuAndRef\obj\Debug\net10.0\PassByValuAndRef.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\All Code\PassByValuAndRef\obj\Debug\net10.0\refint\PassByValuAndRef.dll
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\All Code\PassByValuAndRef\obj\Debug\net10.0\PassByValuAndRef.pdb
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\All Code\PassByValuAndRef\obj\Debug\net10.0\PassByValuAndRef.genruntimeconfig.cache
+D:\NikhilP_Projects\All_Projects_Sln_and_Dbs\my_Project\Important\Programs\All Code\PassByValuAndRef\obj\Debug\net10.0\ref\PassByValuAndRef.dll
