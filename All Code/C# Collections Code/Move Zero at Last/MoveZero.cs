@@ -9,8 +9,8 @@ namespace MoveZeroLast
         static void Main(string[] args)
         {
             // ShiftZeroAtLast();
-           // ShiftZeroAtLastOptimize1();
-            ShiftZeroAtLastOptimize2();
+            ShiftZeroAtLastOptimize1();
+            //ShiftZeroAtLastOptimize2();
         }
 
         //TIme complexity O(n)^2
@@ -38,7 +38,7 @@ namespace MoveZeroLast
 
         static void ShiftZeroAtLastOptimize1()
         {
-            int[] arr = { 0, 1, 0, 3, 12 };
+            int[] arr = { 0, 1, 0, 2, 12 };
 
             int position = 0;
 

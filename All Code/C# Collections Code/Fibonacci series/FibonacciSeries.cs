@@ -19,13 +19,21 @@ namespace Fibonacci_series
 
             Console.Write("Enter the number till want iteration : ");
             int num = Convert.ToInt32(Console.ReadLine());
-            while(iterate <= num)
+            //while(iterate <= num)
+            //{
+            //    Console.WriteLine(first);
+            //    long c = first + second;
+            //    first = second;
+            //    second = c;
+            //    iterate++;
+            //}
+
+            for (int i = 0; i < num; i++)
             {
                 Console.WriteLine(first);
                 long c = first + second;
                 first = second;
                 second = c;
-                iterate++;
             }
         }
     }

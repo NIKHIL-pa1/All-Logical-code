@@ -13,7 +13,11 @@
         //RemoveDuplicateChar();
         //AnagramString();
         ///StringComparisons();
-        FindLongestSubstring();
+        //FindLongestSubstring();
+        //DuplicateCount();
+        //findPairOutput();
+        FindMaxConce();
+
 
     }
     static void Duplicate()
@@ -506,5 +510,110 @@
         //}
 
         // Console.WriteLine("Longest Length: " + maxLength);
+    }
+
+    static void DuplicateCount()
+    {
+        int[] arr = { 10, 20, 30, 10, 20, 30, 30, 40 };
+
+        for (int i = 0; i < arr.Length; i++)
+        {
+            int count = 1;
+            bool isExist = false;
+            for (int j = 0; j < i; j++)
+            {
+                if (arr[i] == arr[j] && i != j)
+                {
+                    isExist = true;
+                    break;
+                }
+            }
+
+            if (isExist)
+                continue;
+
+
+            for (int k = i + 1; k < arr.Length; k++)
+            {
+                if (arr[k] == arr[i])
+                {
+                    count++;
+                }
+            }
+
+            Console.WriteLine(string.Join(",", arr[i] +" is "+ count));
+        }
+
+
+
+    }
+
+    static void findPairOutput()
+    {
+        int[] arr= { 1, 2, 3, 4, 5, 6 };
+
+        int n = 3;
+
+        //int[] NewArr = new int[arr.Length];
+        int[] ans = new int[arr.Length];
+       // int k = 0;
+
+        //int position = 0;
+
+        int pos = 0;
+        for (int i = 0; i < n; i++)
+        {
+            ans[pos] = arr[i];
+            ans[pos + 1] = arr[n + i];
+            pos = pos + 2;
+        }
+
+        //for (int i = 0; i < arr.Length; i = i+ 2)
+        //{
+        //    NewArr[i] = arr[k++];
+
+        //}
+
+        //for (int i = 1; i < arr.Length; i += 2)
+        //{
+        //    NewArr[i] = arr[k++];
+        //}
+
+        Console.WriteLine(string.Join(",", ans));
+    }
+
+    static void FindMaxConce()
+    {
+        int[] arr = { 1, 1, 0, 1, 1, 1 };
+
+        int maxCount = 0;
+        for (int i = 0; i < arr.Length; i++)
+        {
+            int count = 0;
+            for (int j = i; j < arr.Length; j++)
+            {
+                bool found = false;
+                for (int k = i; k < arr.Length; k++)
+                {
+                    if (arr[j] == arr[k])
+                    {
+                        found = true;
+                        break;
+                    }
+                }
+
+                if (found)
+                    break;
+
+                count += arr[j];
+
+                if (count > maxCount)
+                    maxCount = count;
+
+
+            }
+        }
+
+        Console.WriteLine("max Count is " + maxCount);
     }
 }

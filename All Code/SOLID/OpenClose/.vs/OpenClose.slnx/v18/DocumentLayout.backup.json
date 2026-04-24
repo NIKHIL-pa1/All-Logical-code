@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\OpenClose\\",
+  "WorkspaceRootPath": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\All Code\\SOLID\\OpenClose\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{420274F2-9A73-4937-B4D7-69FA52BEB4AC}|OpenClose.csproj|d:\\nikhilp_projects\\all_projects_sln_and_dbs\\my_project\\important\\programs\\openclose\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{420274F2-9A73-4937-B4D7-69FA52BEB4AC}|OpenClose.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{103FD47A-7C89-D1C9-EDE0-9BC3E4839AD4}|OpenClose.csproj|d:\\nikhilp_projects\\all_projects_sln_and_dbs\\my_project\\important\\programs\\all code\\solid\\openclose\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{103FD47A-7C89-D1C9-EDE0-9BC3E4839AD4}|OpenClose.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\OpenClose\\Program.cs",
+              "DocumentMoniker": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\All Code\\SOLID\\OpenClose\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\OpenClose\\Program.cs",
+              "ToolTip": "D:\\NikhilP_Projects\\All_Projects_Sln_and_Dbs\\my_Project\\Important\\Programs\\All Code\\SOLID\\OpenClose\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAA4wDIAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-30T10:48:29.355Z",
               "EditorCaption": ""

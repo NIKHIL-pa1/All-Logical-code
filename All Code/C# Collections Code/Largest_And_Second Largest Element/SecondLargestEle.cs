@@ -10,9 +10,9 @@ namespace Second_Largest_Element
         static void Main(string[] args)
         {
             SecondLargestEle obj = new SecondLargestEle();
-            // obj.SecondLarge();
+             obj.SecondLarge();
             Largest obj1 = new Largest();
-            obj1.LagrstEle();
+            //obj1.LagrstEle();
         }
 
         void SecondLarge()

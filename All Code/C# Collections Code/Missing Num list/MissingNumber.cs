@@ -8,22 +8,22 @@ namespace Missing_Num_list
     {
         static void Main(string[] args)
         {
-            //MisingDigit();
+            MisingDigit();
             //WithMinMaxInBuildFunc();
-            WithMinMaxManual();
+           // WithMinMaxManual();
         }
 
         static void MisingDigit()
         {
-            int[] arr = { 8, 2, 3, 7, 1 };
-            int n = arr.Length + 1;
+            int[] arr = { 8, 2, 5, 3, 7};
+           // int n = arr.Length + 1;
             List<int> newArr = new List<int>();
             // Iterate from 1 to n and check
             // if the current number is present
-            for (int i = 1; i <= n; i++)
+            for (int i = 1; i <= arr.Length+1; i++)
             {
                 bool found = false;
-                for (int j = 0; j < n - 1; j++)
+                for (int j = 0; j < arr.Length; j++)
                 {
                     if (arr[j] == i)
                     {

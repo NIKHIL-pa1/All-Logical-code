@@ -6,7 +6,7 @@
     <RootNamespace></RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Test.FindDuplicates</StartupObject>
+    <StartupObject>Missing_Num_list.MissingNumber</StartupObject>
   </PropertyGroup>
 
 </Project>
