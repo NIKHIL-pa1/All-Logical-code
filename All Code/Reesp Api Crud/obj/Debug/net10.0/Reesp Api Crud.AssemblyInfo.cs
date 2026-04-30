@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Reesp Api Crud")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c9dc929d8ca4df7b61b27c064702b739edea1b6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Reesp Api Crud")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Reesp Api Crud")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

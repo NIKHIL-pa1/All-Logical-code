@@ -23,7 +23,12 @@ public class MyClass
         //AvgSalOfItDept(employees);
 
         //DuplicateSal(employees);
-        AvgSalOfItDept2(employees);
+
+        FindEmpInEachDept(employees);
+
+        //AvgSalOfItDept2(employees);
+
+
 
 
     }
@@ -63,10 +68,30 @@ public class MyClass
         var sal = emp.GroupBy(x => x.Salary).Where(y => y.Count() > 1).Select(x => x.Key).ToList();
     }
 
+    static void FindEmpInEachDept(List<Employee> emp)
+    {
+        var resp = emp.GroupBy(d => d.Department).Select(x => new
+        {
+            Department = x.Key,
+            count = x.Count(),
+           // Name = x.Select(z => z.Name).ToList()
+
+        });
+
+        foreach (var item in resp)
+        {
+            Console.WriteLine(item.Department);
+          //  Console.WriteLine(item.count);
+           // Console.WriteLine(string.Join(",", item.Name));
+        }
+
+    }
 
     static void AvgSalOfItDept2(List<Employee> emp)
     {
-        Console.WriteLine(resp);
+
+        var resp = emp.GroupBy(d => d.Department).Where(x => x.Count() > 1).Select(y => y.Key).ToList();
+        Console.WriteLine(string.Join(",", resp));
     }
 }
 

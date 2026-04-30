@@ -16,7 +16,8 @@
         //FindLongestSubstring();
         //DuplicateCount();
         //findPairOutput();
-        FindMaxConce();
+        //FindMaxConce();(
+        FindDuplicates();
 
 
     }
@@ -593,7 +594,7 @@
             for (int j = i; j < arr.Length; j++)
             {
                 bool found = false;
-                for (int k = i; k < arr.Length; k++)
+                for (int k = i; k < j; k++)
                 {
                     if (arr[j] == arr[k])
                     {
@@ -615,5 +616,54 @@
         }
 
         Console.WriteLine("max Count is " + maxCount);
+    }
+
+    static void FindDuplicates()
+    {
+        string name = "Programam";
+        //optimize solution
+        HashSet<char> seen = new HashSet<char>();
+        HashSet<char> duplicate = new HashSet<char>();
+
+        foreach (var item in name)
+        {
+            if (!seen.Add(item))
+                duplicate.Add(item);
+        }
+
+        foreach (var item in duplicate)
+        {
+            Console.WriteLine(item);
+        }
+
+        //for (int i = 0; i < name.Length; i++)
+        //{
+        //    int count = 1;
+        //    bool isExist = false;
+        //    for (int k = 0; k < i; k++)
+        //    {
+        //        if (name[i] == name[k])
+        //        {
+        //            isExist = true;
+        //            break;
+                    
+        //        }
+        //    }
+
+        //    if (isExist)
+        //        continue;
+
+        //    for (int j = i + 1; j < name.Length; j++)
+        //    {
+        //        if (name[j] == name[i])
+        //        {
+        //            count++; 
+        //        }
+        //    }
+
+        //    if(count > 1)
+        //        Console.WriteLine(name[i]);
+
+        //}
     }
 }
